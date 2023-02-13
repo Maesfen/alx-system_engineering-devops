@@ -1,2 +1,2 @@
-0-hello_world
+#!/bin/bash
 cat /etc/passwd  /etc/hosts
